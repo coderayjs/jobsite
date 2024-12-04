@@ -48,7 +48,7 @@ const SignUpModal = ({ isOpen, onClose }) => {
 
       try {
         const response = await axios.post(
-          "http://localhost:8000/api/auth/register",
+          "https://jobsite-yd5v.onrender.com/api/auth/register",
           {
             firstName: formData.firstName,
             lastName: formData.lastName,

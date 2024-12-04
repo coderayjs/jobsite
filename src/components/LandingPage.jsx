@@ -60,7 +60,7 @@ const BlogSection = () => {
       excerpt:
         "Master the art of virtual interviews with these essential tips and tricks.",
       date: "March 10, 2024",
-      image: "/api/placeholder/800/400",
+      image: "/src/images/jobs.jpg",
     },
     {
       id: 3,
@@ -68,7 +68,7 @@ const BlogSection = () => {
       excerpt:
         "Create an impressive portfolio that helps you stand out in the remote job market.",
       date: "March 5, 2024",
-      image: "/api/placeholder/800/400",
+      image: "/src/images/jobs.jpg",
     },
   ]);
 
